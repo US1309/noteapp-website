@@ -1,6 +1,6 @@
 console.log("welcome to this project site");
 showNotes();
-// add text and add it to localStoragez
+// add text and add it to localStorage
 
 let addBtn = document.getElementById('addBtn');
 addBtn.addEventListener('click', function () {
